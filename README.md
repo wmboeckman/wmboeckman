@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+🔭 I’m currently working on ...
+- TagFusion : a configurable SEO tag generator for a given body of text
+- AutoByte : an easy-to-use computer automation tool
+- ParticlePlayground : a 2d(?) particle sim, made mostly just for learning OpenGL
+
+🌱 I’m currently learning ...
+- Rust-lang 🦀
+- Modern OpenGL 🖥️
+- Interesting Datastructures! 🔌
+
+📫 How to reach me: wmboeckman@gmail.com
+
+😄 Pronouns: he/they
+
 <!--
 **wmboeckman/wmboeckman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
