@@ -6,6 +6,7 @@
 - ParticlePlayground : a 2d(?) particle sim, made mostly just for learning OpenGL
 
 🌱 I’m currently learning ...
+- PWAs ⚡
 - Rust-lang 🦀
 - Modern OpenGL 🖥️
 - Interesting Datastructures! 🔌
