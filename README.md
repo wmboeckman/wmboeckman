@@ -1,14 +1,11 @@
 ### Hi there 👋
 
 🔭 I’m currently working on ...
-- TagFusion : a configurable SEO tag generator for a given body of text
-- AutoByte : an easy-to-use computer automation tool
-- ParticlePlayground : a 2d(?) particle sim, made mostly just for learning OpenGL
+- ...nothing as of late 😅
 
 🌱 I’m currently learning ...
-- PWAs ⚡
-- Rust-lang 🦀
-- Modern OpenGL 🖥️
+- Rust 🦀
+- 3D Graphics (Vulcan, OpenGL) 🖥️
 - Interesting Datastructures! 🔌
 
 📫 How to reach me: wmboeckman@gmail.com
