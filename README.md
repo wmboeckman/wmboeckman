@@ -1,17 +1,5 @@
 ### Hi there 👋
 
-🔭 I’m currently working on ...
-- ...nothing as of late 😅
-
-🌱 I’m currently learning ...
-- Rust 🦀
-- 3D Graphics (Vulcan, OpenGL) 🖥️
-- Interesting Datastructures! 🔌
-
-📫 How to reach me: wmboeckman@gmail.com
-
-😄 Pronouns: he/they
-
 <!--
 **wmboeckman/wmboeckman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
